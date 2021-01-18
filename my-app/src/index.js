@@ -1,16 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
-import AddText from './AddText'
 import reportWebVitals from './reportWebVitals';
-import Test7 from './Test/Test7'
+
+
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
-    {/* <AddText/> */}
-    <Test7/>
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

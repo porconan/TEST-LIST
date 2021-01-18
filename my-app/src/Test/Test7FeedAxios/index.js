@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import axios from 'axios'
 
-export default function Test1(){
+export default function Test7(){
     const [dataArray, setDataArray] = useState(null);
 
    useEffect(() => {

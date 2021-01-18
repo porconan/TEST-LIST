@@ -1,0 +1,15 @@
+https://medium.com/@rennerwin/%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A-functional-component-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-react-hooks-%E0%B8%88%E0%B8%B2%E0%B8%81-react-16-7-0-b41e94d3464d
+-   React Hooks สามารถเพิ่ม state และ lifecycle เข้าไปใน functional component ได้เลย
+-   การอัพเดท state ด้วย useState แตกต่างจากกับการเรียกใช้ this.setState ตรงที่ 
+    state ไม่ใช่การ merge ระหว่าง state ใหม่กับ state ก่อนหน้า แต่ว่าเป็นการทับของเก่าเลย
+-   function ใน react hook จะมี
+    useState
+    useEffect
+    useContext
+    useReducer
+    useCallback
+    useMemo
+    useRef
+    useImperativeMethods
+    useMutationEffect
+    useLayoutEffect
